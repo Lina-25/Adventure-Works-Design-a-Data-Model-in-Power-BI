@@ -84,7 +84,7 @@ These features ensure that the dashboard is interactive and user-friendly, enabl
 
 ## 🚀 How to Use the Dashboard
 
-1. **View the dashboard on [Power BI Service](#)** _(Insert published dashboard link)_
+1. **View the dashboard on [Power BI Service](#)** _https://app.powerbi.com/links/UHd3bR1UeN?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=73b46611-1dc1-436b-b6c8-e0b92e514145_
 2. **Select a year and region** to dynamically update all visuals.
 3. **Analyze sales trends** using the combo chart to compare total sales and profit over time.
 4. **Explore country-wise sales performance** by selecting a region or product category.
